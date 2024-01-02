@@ -1,0 +1,97 @@
+
+.nav1{
+    height: 100px;
+    position: relative;
+
+}
+.nav1{
+    position: absolute;
+    right: 150px;
+    top: 80px;
+    word-spacing: 20px;
+    
+}
+#a1:hover{color: blue;}
+#a2:hover{color: blue;}
+#a3:hover{color: blue;}
+#a4:hover{color: blue;}
+
+#a1:active{color: red;}
+#a2:active{color: red;}
+#a3:active{color: red;}
+#a4:active{color: red;}
+.anav{
+    text-decoration: none;
+    
+}
+.anav:hover{
+    transform: scale(10);
+}
+
+#d1{
+    position: relative;
+    top: 300px;
+    left: 200px;
+}
+
+#p1{
+    font-size: 35px;
+}
+#sp1{
+    /* position: absolute; */
+    color: #e91c1cde;
+    /* left: 210px; */
+}
+#btn1{
+    background-color: black;
+    height: 26px;
+    border-radius: 5px;
+}
+#abtn{
+    color: beige;
+    text-decoration: none;
+   
+}
+.img1{
+    right: 17px;
+    position: absolute;
+    top: 137px;
+    height: 518px;
+}
+.img1:hover{
+    transform: scale(1.1);
+}
+.aboutme{
+    position: relative;
+    top: 650px;
+}
+#hhh1{
+    display: flex;
+    justify-content: center;
+}
+#con{
+    position: absolute;
+    top: 1200px;
+    left: 700px;
+}
+#pp1{
+    position: absolute;
+    top: 879px;
+    left: 643px;
+    text-align: justify;
+}
+#i3{
+    position: absolute;
+    height: 300px;
+    width: 550px;
+    top: 880px;
+    left: 75px;
+    
+}
+#int{
+    position: absolute;
+    top: -152px;
+    right: 568px;
+    color:#3c9654 ;
+    font-style: oblique;
+}
